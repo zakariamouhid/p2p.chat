@@ -11,7 +11,8 @@ import InvalidRoom from '../components/invalid-room'
 import RequestPerms from '../components/request-perms'
 import SetNickname from '../components/set-nickname'
 
-const SIGNALHUB = 'https://signalhub.p2p.chat'
+// const SIGNALHUB = 'https://signalhub.p2p.chat'
+const SIGNALHUB = 'https://zakariamouhid-p2p-signalhub.herokuapp.com'
 
 export default class Chat extends React.Component {
 
